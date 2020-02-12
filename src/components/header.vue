@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">xl cloud</router-link>
+      <router-link to="/">ai explorer</router-link>
     </div>
     <nav>
       <ul>

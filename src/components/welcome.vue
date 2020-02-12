@@ -1,6 +1,6 @@
 <template>
   <div id="welcome">
-    <h1>cloud @ ai speed</h1>
+    <h1>innovate @ ai speed</h1>
     <p>free, realtime, in memory cloud colab engine</p>
     <!-- <p>evolutionary learning & fair monetary engine</p> -->
     <div class="cta">
