@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
     <h1>family @ ai speed</h1>
-    <p>free, realtime, in memory family colab engine</p>
+    <p>free, realtime, in memory, family colab engine</p>
     <!-- <p>evolutionary learning & fair monetary engine</p> -->
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
