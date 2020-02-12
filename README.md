@@ -1,4 +1,4 @@
-# realtime cloud collaboration engine app
+# realtime cloud collaboration engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
