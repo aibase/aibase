@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
-    <h1>innovate @ ai speed</h1>
-    <p>free, realtime, in memory cloud collaboration engine</p>
+    <h1>family @ ai speed</h1>
+    <p>free, realtime, in memory family collaboration engine</p>
     <!-- <p>evolutionary learning & fair monetary engine</p> -->
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
