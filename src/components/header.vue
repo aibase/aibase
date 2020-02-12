@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">xlcolab</router-link>
+      <router-link to="/">xl cloud</router-link>
     </div>
     <nav>
       <ul>
