@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">xl family</router-link>
+      <router-link to="/">xl base</router-link>
     </div>
     <nav>
       <ul>

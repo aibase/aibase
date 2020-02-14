@@ -1,4 +1,4 @@
-# realtime family collaboration engine
+# realtime social collaboration engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
